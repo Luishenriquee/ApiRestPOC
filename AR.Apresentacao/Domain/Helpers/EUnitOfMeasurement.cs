@@ -1,10 +1,6 @@
-using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace api_rest.Domain.Helpers
+namespace AR.Presentetion.Domain.Helpers
 {
     public enum EUnitOfMeasurement : byte
     {
